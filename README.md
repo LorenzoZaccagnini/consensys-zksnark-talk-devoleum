@@ -1,7 +1,7 @@
 # ConsenSys distributed AI and Zksnark talk about Devoleum
 
 ## Introduction
-Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Ethereum Blockchain topics
+Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Devoleum distributed AI and Zksnark usage
 
 * Zksnark
 * Zero proof knowledge
