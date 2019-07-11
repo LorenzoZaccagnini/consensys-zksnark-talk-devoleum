@@ -1,4 +1,4 @@
-# ConsenSys distributed AI and Zksnark talk about Devoleum
+#  Distributed AI and Zksnark talk about Devoleum (ConsenSys Office Hours)
 
 ## Introduction
 Educational resources, Elisa Romondia and Lorenzo Zaccagnini talk about Devoleum distributed AI and Zksnark usage
